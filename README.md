@@ -4,7 +4,7 @@ This repository contains the system design for **Live Drops: Flash-Sale & Follow
 
 ## Diagrams
 
-Here are the Excalidraw links for each deliverable (replace with your URLs):
+Here are the Excalidraw links for each deliverable:
 
 - **Deliverable 1 — Architecture:** [https://excalidraw.com/#json=_Dmt0EgiYFPt1OtdQDtQ1,WRAWQuhkcKUYBuA4wb70Qw]  
 - **Deliverable 2 — Data Model:** [https://excalidraw.com/#json=BFD-Scuot0SHN7WuvEgaJ,3FgU4bc1nLi_KRYV95TY8Q]  
