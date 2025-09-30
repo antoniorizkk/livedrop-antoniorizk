@@ -1,14 +1,4 @@
-#!/usr/bin/env python3
-"""
-Shoplite Chat Interface
-File: /src/chat-interface.py
 
-A simple CLI client for interacting with the Shoplite RAG system deployed on Colab.
-Connects to the Flask API exposed via ngrok.
-
-NOTE: This version includes robust client-side logic to clean up the 'sources' output
-for better user readability by filtering out internal instructions and large text chunks.
-"""
 
 import requests
 import json
