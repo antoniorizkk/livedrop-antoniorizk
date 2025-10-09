@@ -1,0 +1,122 @@
+[
+  {
+    "qid": "Q01",
+    "category": "Orders",
+    "question": "How can I check the status of my order?",
+    "answer": "You can check your order status anytime by entering your order ID in the 'Order Status' page. You'll see updates like Placed, Packed, Shipped, or Delivered."
+  },
+  {
+    "qid": "Q02",
+    "category": "Orders",
+    "question": "I entered the wrong shipping address. Can I change it?",
+    "answer": "If your order hasn’t shipped yet, contact our support team immediately with your order ID. Once shipped, address changes aren’t possible."
+  },
+  {
+    "qid": "Q03",
+    "category": "Shipping",
+    "question": "How long does delivery usually take?",
+    "answer": "Delivery takes 3–5 business days once shipped, depending on your region and carrier."
+  },
+  {
+    "qid": "Q04",
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Currently, we only ship within the domestic region listed at checkout. International shipping is not yet available."
+  },
+  {
+    "qid": "Q05",
+    "category": "Returns",
+    "question": "What is your return policy?",
+    "answer": "We accept returns within 14 days of delivery for unused products in their original packaging. Refunds are processed to the original payment method."
+  },
+  {
+    "qid": "Q06",
+    "category": "Returns",
+    "question": "How do I start a return?",
+    "answer": "Go to your Order Status page, select your order, and click 'Request Return'. Follow the on-screen instructions."
+  },
+  {
+    "qid": "Q07",
+    "category": "Refunds",
+    "question": "When will I receive my refund?",
+    "answer": "Refunds are issued within 5–7 business days after we receive and inspect your returned item."
+  },
+  {
+    "qid": "Q08",
+    "category": "Refunds",
+    "question": "Can I get a refund if my order was never delivered?",
+    "answer": "If tracking confirms the order was lost or never delivered, we’ll issue a full refund or replacement after carrier verification."
+  },
+  {
+    "qid": "Q09",
+    "category": "Payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit and debit cards, as well as digital wallets such as Apple Pay and Google Pay."
+  },
+  {
+    "qid": "Q10",
+    "category": "Payments",
+    "question": "Is my payment information secure?",
+    "answer": "Yes, all transactions are encrypted and processed securely via our certified payment provider."
+  },
+  {
+    "qid": "Q11",
+    "category": "Account",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can checkout as a guest. However, creating an account allows you to view your order history and track shipments easily."
+  },
+  {
+    "qid": "Q12",
+    "category": "Account",
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Click 'Forgot Password' on the login page and follow the steps sent to your registered email."
+  },
+  {
+    "qid": "Q13",
+    "category": "Products",
+    "question": "Are all products in stock?",
+    "answer": "Stock availability is displayed on each product page. If an item is out of stock, you can sign up for restock alerts."
+  },
+  {
+    "qid": "Q14",
+    "category": "Products",
+    "question": "Do your products come with a warranty?",
+    "answer": "Yes, all eligible items include a 1-year limited warranty covering manufacturing defects."
+  },
+  {
+    "qid": "Q15",
+    "category": "Support",
+    "question": "How can I contact customer support?",
+    "answer": "You can reach us via the 'Ask Support' panel or email us at support@example.com. Our team replies within 24 hours."
+  },
+  {
+    "qid": "Q16",
+    "category": "Support",
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Take a clear photo of the damaged item and contact support with your order ID. We’ll arrange a replacement or refund."
+  },
+  {
+    "qid": "Q17",
+    "category": "Technical",
+    "question": "The website isn’t loading correctly. What should I do?",
+    "answer": "Try clearing your browser cache or using a different device or browser. If the issue continues, contact support."
+  },
+  {
+    "qid": "Q18",
+    "category": "Privacy",
+    "question": "How do you handle my personal data?",
+    "answer": "We only collect essential information needed to process your order and never share it with third parties."
+  },
+  {
+    "qid": "Q19",
+    "category": "Privacy",
+    "question": "Can I delete my account and data?",
+    "answer": "Yes. Send a request through your account settings or email support, and we’ll process your data deletion within 7 days."
+  },
+  {
+    "qid": "Q20",
+    "category": "Misc",
+    "question": "Where can I find product manuals or guides?",
+    "answer": "Product manuals are available for download on each product’s page under 'Details'."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "p1",
+    "title": "Wireless Headphones",
+    "price": 99.99,
+    "image": "/logo.svg",
+    "tags": ["audio", "wireless"],
+    "stockQty": 12
+  },
+  {
+    "id": "p2",
+    "title": "Mechanical Keyboard",
+    "price": 129.99,
+    "image": "/logo.svg",
+    "tags": ["keyboard", "peripherals"],
+    "stockQty": 8
+  }
+]
